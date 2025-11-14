@@ -48,13 +48,6 @@ I build web apps and small tooling that help people solve real problems. I enjoy
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=for-the-badge)
 
-*Tip:* These badges are from shields.io and are dynamic — they render consistently on GitHub. If you want an inline SVG grid with logos and custom percentages, I can replace these badges with that.
-
-## Currently learning
-
-- Machine Learning (modeling and deployment)
-- On-device/edge inference and lightweight models for mobile
-
 ---
 
 ## GitHub stats
