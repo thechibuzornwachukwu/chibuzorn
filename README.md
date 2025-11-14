@@ -1,5 +1,3 @@
-<!-- Enhanced GitHub Profile README for @chibuzornwachukwu -->
-<!-- If `assets/banner.gif` exists (created by the workflow), it will render here. Otherwise the inline SVG below acts as a fallback. -->
 
 ![Banner](assets/banner.gif)
 
