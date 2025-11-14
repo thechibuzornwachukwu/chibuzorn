@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hey there, I'm Chibuzor Nwachukwu 👋 I'm an AI engineer & developer 🚀 ">
-</p>
 
 - 👋 Hi, I’m @chibuzornwachukwu
 - 👀 I’m interested in everyone, everything; a bit more into websites though
