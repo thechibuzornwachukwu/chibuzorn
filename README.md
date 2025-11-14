@@ -1,7 +1,7 @@
 
 ![Banner](assets/banner.gif)
 
-<svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+<!-- <svg width="100%" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <defs>
     <linearGradient id="g" x1="0" x2="1">
       <stop offset="0%" stop-color="#ff8a00">
@@ -18,15 +18,14 @@
   <rect width="1200" height="140" fill="url(#g)" />
   <text x="60" y="85" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="36" fill="white">👋 Hi, I’m <tspan font-weight="700">chibuzornwachukwu</tspan></text>
   <text x="60" y="115" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif" font-size="14" fill="rgba(255,255,255,0.9)">Web-focused dev • Python & Machine Learning learner • I build practical apps</text>
-</svg>
+</svg> -->
 
-# Hi — I'm Chibuzor Nwachukwu
+# whoami
 
 - 👋 Hi, I’m **@chibuzornwachukwu**
 - 👀 I’m interested in everyone, everything; a bit more into websites though
-- 🌱 I’m currently learning **Python** and **Machine Learning**
-- 💞️ I’m looking to collaborate on web apps and sites
-- 📫 You can reach me via email (link below) and my portfolio site
+- 🌱 I’m currently learning to ship meaningful and scalable solutions
+- 💞️ I’m looking to collaborate on future facing products
 
 ---
 
