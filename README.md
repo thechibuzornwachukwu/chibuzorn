@@ -39,9 +39,12 @@ I build web apps and small tooling that help people solve real problems. I enjoy
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Open AI](https://img.shields.io/badge/OpenAI-412991?logo=git&logoColor=white&style=for-the-badge)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=for-the-badge)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white&style-for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style-for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -57,9 +60,11 @@ I build web apps and small tooling that help people solve real problems. I enjoy
 
 ## 📫 Contact
 
-[![Website](https://img.shields.io/badge/Portfolio-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](https://your-portfolio.example)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:hello@your-email.example)
+<!--[![Website](https://img.shields.io/badge/Portfolio-0A66C2?logo=google-chrome&logoColor=white&style=for-the-badge)](https://your-portfolio.example)-->
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:chibuzordev@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/thechibuzornwachukwu)
+[![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white&style=for-the-badge)](https://www.behance.net/thechibuzornwachukwu)
+
 
 ---
